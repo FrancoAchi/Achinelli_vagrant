@@ -1,0 +1,9 @@
+    1  git clone https://github.com/FrancoAchi/Achinelli_vagrant.git
+    2  ls
+    3  cat README
+    4  cd  Achinelli_vagrant/
+    5  ls
+    6  cat README.md 
+    7  ls
+    8  history
+    9  history > Historial.txt
