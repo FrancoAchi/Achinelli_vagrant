@@ -1,0 +1,67 @@
+    1  git clone https://github.com/FrancoAchi/Achinelli_vagrant.git
+    2  ls
+    3  cat README
+    4  cd  Achinelli_vagrant/
+    5  ls
+    6  cat README.md 
+    7  ls
+    8  history
+    9  history > Historial.txt
+   10  ls
+   11  cat Historial.txt 
+   12  git status
+   13  git add .
+   14  git status
+   15  git commit -m "Primer commit"
+   16  git config --global user.email "francoachinelli@gmail.com"
+   17  git config --global user.name "FrancoAchi"
+   18  git commit -m "Primer commit"
+   19  git push
+   20  git remote set-url origin https://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@github.com/FranAchi/Achinelli_vagrant
+   21  git push
+   22  git push origin main
+   23  git remote set-url origin https://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@github.com/FrancoAchi/Achinelli_vagrant
+   24  git push
+   25  exit
+   26  whoami
+   27  pwd
+   28  man man
+   29  man ls
+   30  ls -l
+   31  ls -la
+   32  man man
+   33  echo "hola"
+   34  echo $HOME
+   35  ls
+   36  cd repogit/
+   37  ls
+   38  helṕ
+   39  help
+   40  clear
+   41  ls -la
+   42  cd ..
+   43  ls
+   44  cat README
+   45  ls
+   46  ls -la
+   47  ssh-keygen -t ed25519
+   48  ls -la
+   49  cd .ssh
+   50  ls
+   51  cat id_ed25519.pub
+   52  cd ..
+   53  ls
+   54  cd repogit/
+   55  ls
+   56  cd ..
+   57  ls
+   58  cd repogit/
+   59  ls
+   60  git clone git@github.com:FrancoAchi/Achinelli_vagrant.git
+   61  ls
+   62  cd Achinelli_vagrant/
+   63  ld
+   64  ls
+   65  history
+   66  git status
+   67  history > prueba.txt
